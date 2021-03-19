@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\maylo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\maylo\\.nuget\\packages"
+    ]
+  }
+}

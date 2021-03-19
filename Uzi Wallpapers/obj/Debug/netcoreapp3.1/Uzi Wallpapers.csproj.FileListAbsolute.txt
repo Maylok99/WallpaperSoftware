@@ -1,0 +1,16 @@
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.exe
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.deps.json
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.runtimeconfig.json
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.runtimeconfig.dev.json
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.dll
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\bin\Debug\netcoreapp3.1\Uzi Wallpapers.pdb
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.csprojAssemblyReference.cache
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi_Wallpapers.Form1.resources
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.csproj.GenerateResource.cache
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.AssemblyInfoInputs.cache
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.AssemblyInfo.cs
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.csproj.CoreCompileInputs.cache
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.dll
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.pdb
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi Wallpapers.genruntimeconfig.cache
+C:\Users\maylo\source\repos\Uzi Wallpapers\Uzi Wallpapers\obj\Debug\netcoreapp3.1\Uzi_Wallpapers.Properties.Resources.resources
